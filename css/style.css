@@ -19,19 +19,17 @@ h1 {
   text-align: center;
   margin-top: 20px;
   font-size: 2.5rem;
-  font-weight: 700;
   color: white;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.7rem;
   color: red;
   margin: 5px;
 }
 
 h3 {
   font-size: 1.3rem;
-  font-weight: 700;
   color: white;
   margin: 3px;
 }
@@ -56,6 +54,6 @@ button:hover {
   background-color: blue;
   margin: 0 auto;
   width: 350px;
-  height: 450px;
+  height: 459px;
   border-radius: 10px;
 }
